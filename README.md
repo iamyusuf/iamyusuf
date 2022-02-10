@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Md Yousuf Ali
-I'm currently working as Software Engineer in US Bangla Group
+I'm Md Yousuf Ali,
+I'm currently working as Software Engineer at US Bangla Group
 <!--
 **iamyusuf/iamyusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
