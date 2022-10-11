@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Md Yousuf Ali,
-I'm currently working as Senior Software Engineer at US Bangla Group
+I'm currently working as <b>Senior Software Engineer</b> at US Bangla Group
 - 🔭 I’m currently working on Aircraft Resource Management Software
 - 📫 You can mail me at <code>w2bhnp@gmail.com</code>
 <!--
