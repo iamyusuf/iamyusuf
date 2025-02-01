@@ -2,7 +2,9 @@
 
 I'm Md Yousuf Ali,
 I'm currently working as <b>Senior Software Engineer</b> at US Bangla Group
-- 🔭 I’m currently working on Aircraft Resource Management Software
+- 🔭 I’m currently working on Payment Orchestration Layer
+- 🌱 I’m currently learning Rust
+- I’m looking to collaborate on projects build with node.js or golang
 - 📫 You can mail me at <code>w2bhnp@gmail.com</code>
 <!--
 **iamyusuf/iamyusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
