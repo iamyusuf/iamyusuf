@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Md Yousuf Ali,
-I'm currently working as <b>Senior Software Engineer</b> at US Bangla Group
+I'm currently working as <b>Senior Software Engineer</b> at Miaki x Grameenphone
 - 🔭 I’m currently working on Payment Orchestration Layer
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on projects build with node.js or golang
